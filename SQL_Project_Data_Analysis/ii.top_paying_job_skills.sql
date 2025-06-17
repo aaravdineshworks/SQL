@@ -1,8 +1,5 @@
 /*
 Q. What skills are required for the top paying engineer related jobs
-- Use the previous jobs from the previous query
-- Add the specific skills to these roles
-- It provides a detailed look for job seekers are aspiring to obtain such roles
 */
 
 WITH top_paying_jobs AS (

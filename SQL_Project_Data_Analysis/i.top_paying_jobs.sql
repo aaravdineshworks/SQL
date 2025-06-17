@@ -1,8 +1,5 @@
 /*
 What are the top-paying engineer related roles?
-- Identify the top 10 highest-paying engineer related roles that are available in Bengaluru.
-- Focus on job postings with salaries (no nulls)
-- Highlight the opportunities 
 */
 
 SELECT
