@@ -1,6 +1,6 @@
-/*
-Q. What skills are required for the top paying engineer related jobs
-*/
+
+/*  Q. What skills are required for the top paying engineer related jobs */
+
 
 WITH top_paying_jobs AS (
     SELECT

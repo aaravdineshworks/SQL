@@ -1,6 +1,5 @@
-/*
-What are the top-paying engineer related roles?
-*/
+
+/* Q. What are the top-paying engineer related roles? */
 
 SELECT
     job_id,

@@ -1,5 +1,5 @@
-/* Q: What are the most in-demand skills for engineering-related jobs?
-*/
+/* Q: What are the most in-demand skills for engineering-related jobs? */
+
 SELECT
     skills,
     COUNT(skills_job_dim.job_id) AS demand_count
